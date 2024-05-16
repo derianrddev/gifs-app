@@ -1,6 +1,6 @@
 # GifsApp
 
-Application to search for gifs.
+Application to search for gifs. Based on a project that is part of the Angular course "Angular: From zero to expert" by Fernando Herrera.
 
 ## Technologies
 
